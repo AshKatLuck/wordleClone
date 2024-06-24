@@ -1,0 +1,1 @@
+import { WORDS } from "./words";
